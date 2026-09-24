@@ -1,4 +1,4 @@
-# Type-1 vs Type-2 Hypervisor CPU Performance Study
+# CC-Experiment_01: Performance Analysis of Type-1 and Type-2 Hypervisors
 
 ![Course](https://img.shields.io/badge/Course-Cloud%20Computing%20%2F%20Computer%20Networks-blue.svg)
 ![Benchmark](https://img.shields.io/badge/Benchmark-Sysbench%20CPU%2020k%20Primes-green.svg)
